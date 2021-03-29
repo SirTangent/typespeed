@@ -1,3 +1,5 @@
+// Address map for DE0-CV Peripherals using Nios II
+
 #ifndef __ADDRESS_MAP__
 #define __ADDRESS_MAP__
 
