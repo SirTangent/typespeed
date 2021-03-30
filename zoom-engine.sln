@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "zoom-engine", "zoom-engine.vcxproj", "{400E55C1-498B-43B2-BDBC-A9CA71C403E6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "typespeed", "zoom-engine.vcxproj", "{400E55C1-498B-43B2-BDBC-A9CA71C403E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

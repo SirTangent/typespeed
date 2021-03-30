@@ -24,6 +24,7 @@
     <ProjectGuid>{400e55c1-498b-43b2-bdbc-a9ca71c403e6}</ProjectGuid>
     <RootNamespace>zoomengine</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>typespeed</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -139,10 +140,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="zoom.c" />
+    <ClCompile Include="graphics.c" />
+    <ClCompile Include="typespeed.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="address_map.h" />
+    <ClInclude Include="graphics.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
